@@ -15,6 +15,17 @@ Social media terbuka dan anonim dengan hanya membutuhkan username dan password s
 # Pengembangan
 Fokus pengembangan tahap awal pada pembuatan versi Web App dan akan berlanjut untuk pengembangan aplikasi mobile
 
+# Fokus Fitur
+Untuk mempermudah pengembangan maka pada versi pertama fitur yang akan diberikan berfokus pada :
+* Berbagi status dan post (publik) (hanya teks)
+* Memberikan komentar
+* Mengunjungi profil pengguna lainnya
+* Menampilkan list post hanya pada pengguna yang saling terhubung
+* Membuat diary (private) dengan enkripsi (hanya teks)
+* Membuat post dan status QR Code
+
+Detail pengembangan dapat dilihat melalui [Track Pengembangan](https://github.com/rzak23/temmo/wiki/Track-Pengembangan-Dan-Fitur)
+
 # Diskusi
 Kami membuka diskusi untuk membuat temmo menjadi lebih baik dan membuat pengalaman penggunaan menjadi lebih nyaman, silahkan follow dan join channel kami melalui :
 * [Discord](https://discord.gg/XhhYUHCW)
