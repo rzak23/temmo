@@ -1,4 +1,7 @@
 # Temmo
+<p style="text-align:center">
+<img src="rsc/icon.png" width="20%">
+</p>
 Social media terbuka dan anonim dengan hanya membutuhkan username dan password saja untuk membuat akun dan tidak mengaitkan email pribadi apapun. Penggunaan free dan jaminan tanpa iklan dan dilengkapi dengan perlindungan enkripsi dan hash
 
 # Inisiasi Project
@@ -15,3 +18,10 @@ Fokus pengembangan tahap awal pada pembuatan versi Web App dan akan berlanjut un
 # Diskusi
 Kami membuka diskusi untuk membuat temmo menjadi lebih baik dan membuat pengalaman penggunaan menjadi lebih nyaman, silahkan follow dan join channel kami melalui :
 * [Discord](https://discord.gg/XhhYUHCW)
+
+# Donasi
+Kami juga membuka donasi yang digunakan untuk menjaga layanan tetap aktif
+![donasi](rsc/donasi.png)
+
+# Credit
+Icon dibuat oleh [Aleksandr Reva](https://www.iconfinder.com/Revicon)
