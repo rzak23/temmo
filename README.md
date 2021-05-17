@@ -4,6 +4,8 @@
 </p>
 Social media terbuka dan anonim dengan hanya membutuhkan username dan password saja untuk membuat akun dan tidak mengaitkan email pribadi apapun. Penggunaan free dan jaminan tanpa iklan dan dilengkapi dengan perlindungan enkripsi dan hash
 
+[Buka Wiki](https://github.com/rzak23/temmo/wiki)
+
 # Inisiasi Project
 * Bahasa Pemrograman (PHP) dan framework (Codeigniter)
 * Framework UI dengan Bootstrap Twitter
