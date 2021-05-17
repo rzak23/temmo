@@ -12,7 +12,7 @@ Social media terbuka dan anonim dengan hanya membutuhkan username dan password s
 * Database MySQL
 * Bahasa pemrograman Java (Android Device)
 * Framework Electron (Dekstop Device (Windows dan Distribusi Linux))
-* Bahasa pemrogram Swift (Apple Device)
+* Bahasa pemrograman Swift (Apple Device)
 
 # Pengembangan
 Fokus pengembangan tahap awal pada pembuatan versi Web App dan akan berlanjut untuk pengembangan aplikasi mobile
